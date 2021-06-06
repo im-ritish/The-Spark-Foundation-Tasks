@@ -9,5 +9,5 @@
 ### Task completed under Data Science and Business Analytics Internship @THE SPARKS FOUNDATION (GRIPJUNE21) by *Ritish Singh*
 ## Links:
 - [Youtube](https://youtu.be/jc11fFOzTLI)
-- [Dataset](https://https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv)
+- [Dataset](https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv)
 - [LinkedIn](https://www.linkedin.com/in/ritish-singh)
